@@ -1,4 +1,4 @@
-package chapter3;
+package com.fide.chapter3;
 
 /**
  * This program demonstrates a triangular array

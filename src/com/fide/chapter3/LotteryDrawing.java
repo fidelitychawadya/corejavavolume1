@@ -1,4 +1,4 @@
-package chapter3;
+package com.fide.chapter3;
 
 import java.util.*;
 

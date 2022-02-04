@@ -1,4 +1,4 @@
-package chapter3;
+package com.fide.chapter3;
 
 /**
  * This program shows how to store tabular data in a 2D array
